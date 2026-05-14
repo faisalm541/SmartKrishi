@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">839798777983-21id86h255ka8mq7sm5ju4lqrod8oe6b.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">839798777983</string>
+    <string name="google_api_key" translatable="false">AIzaSyDa-oTjcTG9UnmIKxCI8YNrWA9blnDtx6M</string>
+    <string name="google_app_id" translatable="false">1:839798777983:android:617b3ce10bf9f43075374a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDa-oTjcTG9UnmIKxCI8YNrWA9blnDtx6M</string>
+    <string name="google_storage_bucket" translatable="false">smartkrishi-f5a07.firebasestorage.app</string>
+    <string name="project_id" translatable="false">smartkrishi-f5a07</string>
+</resources>

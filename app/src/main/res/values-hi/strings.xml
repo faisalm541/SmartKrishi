@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">स्मार्ट कृषि</string>
+    <string name="crop_advisor">फसल सलाहकार</string>
+    <string name="disease_detection">रोग पहचान</string>
+    <string name="market_prices">बाजार भाव</string>
+    <string name="my_history">मेरा इतिहास</string>
+    <string name="my_profile">मेरी प्रोफ़ाइल</string>
+    <string name="sign_in">साइन इन</string>
+    <string name="sign_up">साइन अप</string>
+    <string name="logout">लॉगआउट</string>
+    <string name="loading">लोड हो रहा है...</string>
+    <string name="no_internet">इंटरनेट कनेक्शन नहीं है</string>
+    <string name="welcome_back">वापसी पर स्वागत है 👋</string>
+    <string name="create_account">खाता बनाएं</string>
+    <string name="farm_details">खेत की जानकारी</string>
+    <string name="saved">सहेजा गया</string>
+    <string name="delete">हटाएं</string>
+    <string name="no_history_yet">अभी तक कोई इतिहास नहीं</string>
+    <string name="soil_temp">मिट्टी का तापमान</string>
+    <string name="soil_moisture">मिट्टी की नमी</string>
+    <string name="what_do_you_need">आपको क्या चाहिए?</string>
+    <string name="best_crop_today">आज की सर्वश्रेष्ठ फसल</string>
+    <string name="ai_farming_tips">AI खेती के सुझाव</string>
+    <string name="allow_location">स्थान की अनुमति दें</string>
+    <string name="market_prices_title">बाजार भाव 💰</string>
+    <string name="last_login">अंतिम लॉगिन</string>
+</resources>
