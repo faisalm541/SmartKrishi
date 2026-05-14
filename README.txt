@@ -1,5 +1,5 @@
 ╔══════════════════════════════════════════════════╗
-║         SMART KRISHI — SIH 2025 Problem 30       ║
+║                  SMART KRISHI                    ║
 ║     AI-Based Crop Recommendation Android App     ║
 ╚══════════════════════════════════════════════════╝
 
