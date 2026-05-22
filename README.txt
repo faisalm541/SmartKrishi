@@ -76,7 +76,7 @@ APP SCREENS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 1. SplashActivity    → Animated splash (2.8 sec auto-navigate)
-2. LoginActivity     → Login + Register tabs with SQLite
+2. LoginActivity     → Login + Register tabs with Firebase Auth
 3. HomeActivity      → Dashboard: weather, stats, 4 feature cards
 4. CropInputActivity → Soil & climate input form with chips
 5. ResultActivity    → AI crop result with progress bars + share
@@ -110,7 +110,7 @@ Fix:   Delete old MainActivity.kt if it still exists
        Make sure SplashActivity is the launcher in Manifest
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Smart India Hackathon 2025 — Problem 30
+Smart India Hackathon 2025
 Package: com.example.smartkrishi
 Version: 1.0
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
